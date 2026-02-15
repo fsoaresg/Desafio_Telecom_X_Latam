@@ -148,9 +148,7 @@ Fuente:[API de Telecom X](https://raw.githubusercontent.com/alura-cursos/challen
 
 ![Análisis de correlación entre variables](images/An%C3%A1lisis%20de%20correlaci%C3%B3n%20entre%20variables.png)
 
-**Explorar visualizaciones interactivas en línea:**
-
-https://app.netlify.com/projects/mellifluous-boba-bed465/overview
+[**Explora visualizaciones interactivas en línea:**](https://app.netlify.com/projects/mellifluous-boba-bed465/overview)
 
 ---
 
