@@ -197,7 +197,7 @@ Fuente:[API de Telecom X](https://raw.githubusercontent.com/alura-cursos/challen
 
 ## Cómo usar este proyecto
 
-1. Abrir el cuaderno en **[Google Colab]([https://colab.research.google.com/github/fsoaresg/Desafio-Alura-Store-Latam/blob/main/AluraStoreLatam.ipynb](https://colab.research.google.com/drive/1GmVnMzoH1Scf52kqgmN2oSKKraVXPLgX?usp=sharing))**.
+1. Abrir el cuaderno en **[Google Colab](https://colab.research.google.com/drive/1GmVnMzoH1Scf52kqgmN2oSKKraVXPLgX?usp=sharing)**.
 2. Ejecutar las celdas paso a paso para:
   - Importar los datos desde la API.
   - Realizar limpieza y transformación.
@@ -210,21 +210,37 @@ Fuente:[API de Telecom X](https://raw.githubusercontent.com/alura-cursos/challen
 ## Estructura del repositorio
 
 ├── TelecomX_Churn.ipynb
+
 ├── README.md
+
 ├── 📂 images/
+
 │   ├── Gráfico del Análisis Estadístico de las Variables Numéricas.png
+
 │   ├── Distribución de la Evasión (Churn) de los Clientes.png
+
 │   ├── Recuento de la evasión por variables categóricas.png
+
 │   ├── Tasa de Deserción por Perfil y Género.png
+
 │   ├── Recuento de la evasión por variables numéricas.png
+
 │   ├── Comparativa de Deserción: Ciclo de Vida por Contrato.png
+
 │   └── Análisis de correlación entre variables.png
+
 ├── 📂 interactive/
+
 │   ├── index.html
+
 │   ├── Recuento de la evasión por variables categóricas.html
+
 │   ├── Tasa de Deserción por Perfil y Género.html
+
 │   ├── Recuento de la evasión por variables numéricas.html
+
 │   ├── Comparativa de Deserción: Ciclo de Vida por Contrato.html
+
 │   └── Análisis de correlación entre variables.html
 
 ---
