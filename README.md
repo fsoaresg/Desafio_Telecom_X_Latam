@@ -136,10 +136,7 @@ Fuente:[API de Telecom X](https://raw.githubusercontent.com/alura-cursos/challen
 
 ![Gráfico del Análisis Estadístico de las Variables Numéricas](/images/Gr%C3%A1fico%20del%20An%C3%A1lisis%20Estad%C3%ADstico%20de%20las%20Variables%20Num%C3%A9ricas.png)
 
-https://github.com/fsoaresg/Desafio_Telecom_X_Latam/blob/main/images/Gr%C3%A1fico%20del%20An%C3%A1lisis%20Estad%C3%ADstico%20de%20las%20Variables%20Num%C3%A9ricas.png
-
-### Distribución de la Evasión (Churn) de los Clientes
-![Distribución de la Evasión (Churn) de los Clientes](images/Distribución de la Evasión (Churn) de los Clientes.png)
+![Distribución de la Evasión (Churn) de los Clientes](images/Análisis de correlación entre variables.png)
 
 ### Recuento de la evasión por variables categóricas.png
 ![Recuento de la evasión por variables categóricas](images/Recuento de la evasión por variables categóricas.png)
