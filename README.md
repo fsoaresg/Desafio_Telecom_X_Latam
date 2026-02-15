@@ -134,8 +134,7 @@ Fuente:[API de Telecom X](https://raw.githubusercontent.com/alura-cursos/challen
 
 ## Visualizaciones
 
-### Gráfico del Análisis Estadístico de las Variables Numéricas
-![Gráfico del Análisis Estadístico de las Variables Numéricas](https://github.com/fsoaresg/Desafio_Telecom_X_Latam/blob/main/images/Gr%C3%A1fico%20del%20An%C3%A1lisis%20Estad%C3%ADstico%20de%20las%20Variables%20Num%C3%A9ricas.png)
+![Gráfico del Análisis Estadístico de las Variables Numéricas](/images/Gr%C3%A1fico%20del%20An%C3%A1lisis%20Estad%C3%ADstico%20de%20las%20Variables%20Num%C3%A9ricas.png)
 
 https://github.com/fsoaresg/Desafio_Telecom_X_Latam/blob/main/images/Gr%C3%A1fico%20del%20An%C3%A1lisis%20Estad%C3%ADstico%20de%20las%20Variables%20Num%C3%A9ricas.png
 
