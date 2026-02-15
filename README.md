@@ -1,7 +1,8 @@
 ---
 
 # Telecom X LATAM – Análisis Estratégico de Deserción de Clientes
-> Proyecto de análisis end-to-end enfocado en identificar clientes de alto riesgo y traducir hallazgos estadísticos en decisiones estratégicas de retención.
+Proyecto de análisis end-to-end enfocado en identificar clientes de alto riesgo y traducir hallazgos estadísticos en decisiones estratégicas de retención.
+
 ---
 
 ## Problema de Negocio
@@ -196,7 +197,7 @@ Fuente:[API de Telecom X](https://raw.githubusercontent.com/alura-cursos/challen
 
 ## Cómo usar este proyecto
 
-1. Abrir el cuaderno en **[Google Colab](https://colab.research.google.com/github/fsoaresg/Desafio-Alura-Store-Latam/blob/main/AluraStoreLatam.ipynb](https://colab.research.google.com/drive/1GmVnMzoH1Scf52kqgmN2oSKKraVXPLgX?usp=sharing)**.
+1. Abrir el cuaderno en **[Google Colab]([https://colab.research.google.com/github/fsoaresg/Desafio-Alura-Store-Latam/blob/main/AluraStoreLatam.ipynb](https://colab.research.google.com/drive/1GmVnMzoH1Scf52kqgmN2oSKKraVXPLgX?usp=sharing))**.
 2. Ejecutar las celdas paso a paso para:
   - Importar los datos desde la API.
   - Realizar limpieza y transformación.
