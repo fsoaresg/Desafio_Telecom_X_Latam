@@ -33,25 +33,25 @@ El proyecto sigue una metodología estructurada:
 
 ## Hallazgos Clave
 
-1. **El Tipo de Contrato es el Predictor Más Fuerte**
+- **El Tipo de Contrato es el Predictor Más Fuerte**
    El contrato mensual concentra la mayor tasa de deserción.
    Los contratos anuales y bienales funcionan como ancla de permanencia.
 
-2. ***El Ciclo de Vida Temprano es Crítico**
+- **El Ciclo de Vida Temprano es Crítico**
    Los clientes dentro de los primeros 6 meses presentan mayor riesgo.
    Superar el umbral de 12 meses reduce significativamente la probabilidad de fuga.
 
-3. **Paradoja del Cliente Premium**
+- **Paradoja del Cliente Premium**
    Los clientes que pagan más de $70 mensuales presentan mayor tasa de churn.
    El cliente de alto valor es más exigente y menos tolerante a fallos
    
-4. **Segmento Senior (+60) es el Más Vulnerable**
+- **Segmento Senior (+60) es el Más Vulnerable**
    Presenta la tasa de deserción más alta (>40%).
    
-5. **Fricción en el Método de Pago**
+- **Fricción en el Método de Pago**
    Los métodos manuales (Cheque Electrónico) aumentan la probabilidad de abandono.
    
-6. **Servicios Adicionales Reducen la Deserción**
+- **Servicios Adicionales Reducen la Deserción**
    Soporte Técnico y Seguridad Online actúan como herramientas reales de fidelización.
   
   ---
@@ -158,7 +158,7 @@ Accede a las visualizaciones interactivas ejecutando:
 
 ### Vista previa
 
-![Captura del dashboard](images/dashboard_preview.png)
+![Captura del dashboard](images/Visualizaciones%20interactivas.png)
 
 ---
 
