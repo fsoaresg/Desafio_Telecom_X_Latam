@@ -33,26 +33,26 @@ El proyecto sigue una metodología estructurada:
 
 ## Hallazgos Clave
 
-    **1. El Tipo de Contrato es el Predictor Más Fuerte**
-         El contrato mensual concentra la mayor tasa de deserción.
-         Los contratos anuales y bienales funcionan como ancla de permanencia.
+1. **El Tipo de Contrato es el Predictor Más Fuerte**
+   El contrato mensual concentra la mayor tasa de deserción.
+   Los contratos anuales y bienales funcionan como ancla de permanencia.
 
-    **2. El Ciclo de Vida Temprano es Crítico**
-         Los clientes dentro de los primeros 6 meses presentan mayor riesgo.
-         Superar el umbral de 12 meses reduce significativamente la probabilidad de fuga.
+2. ***El Ciclo de Vida Temprano es Crítico**
+   Los clientes dentro de los primeros 6 meses presentan mayor riesgo.
+   Superar el umbral de 12 meses reduce significativamente la probabilidad de fuga.
 
-    **3. Paradoja del Cliente Premium**
-         Los clientes que pagan más de $70 mensuales presentan mayor tasa de churn.
-         El cliente de alto valor es más exigente y menos tolerante a fallos.
-
-    **4. Segmento Senior (+60) es el Más Vulnerable**
-         Presenta la tasa de deserción más alta (>40%).
-
-    **5. Fricción en el Método de Pago**
-         Los métodos manuales (Cheque Electrónico) aumentan la probabilidad de abandono.
-
-    **6. Servicios Adicionales Reducen la Deserción**
-         Soporte Técnico y Seguridad Online actúan como herramientas reales de fidelización.
+3. **Paradoja del Cliente Premium**
+   Los clientes que pagan más de $70 mensuales presentan mayor tasa de churn.
+   El cliente de alto valor es más exigente y menos tolerante a fallos
+   
+4. **Segmento Senior (+60) es el Más Vulnerable**
+   Presenta la tasa de deserción más alta (>40%).
+   
+5. **Fricción en el Método de Pago**
+   Los métodos manuales (Cheque Electrónico) aumentan la probabilidad de abandono.
+   
+6. **Servicios Adicionales Reducen la Deserción**
+   Soporte Técnico y Seguridad Online actúan como herramientas reales de fidelización.
   
   ---
 
@@ -148,7 +148,17 @@ Fuente:[API de Telecom X](https://raw.githubusercontent.com/alura-cursos/challen
 
 ![Análisis de correlación entre variables](images/An%C3%A1lisis%20de%20correlaci%C3%B3n%20entre%20variables.png)
 
-[**Explora visualizaciones interactivas en línea:**](https://app.netlify.com/projects/mellifluous-boba-bed465/overview)
+[**Explora visualizaciones interactivas en línea**](https://mellifluous-boba-bed465.netlify.app/)
+
+Accede a las visualizaciones interactivas ejecutando:
+
+👉 **[Ver dashboard en Netlify](https://mellifluous-boba-bed465.netlify.app/)**
+
+[![Ver Dashboard](https://img.shields.io/badge/Ver-Dashboard-2563eb?style=for-the-badge&logo=netlify&logoColor=white)](https://mellifluous-boba-bed465.netlify.app/)
+
+### Vista previa
+
+![Captura del dashboard](images/dashboard_preview.png)
 
 ---
 
