@@ -138,23 +138,15 @@ Fuente:[API de Telecom X](https://raw.githubusercontent.com/alura-cursos/challen
 
 ![Distribución de la Evasión (Churn) de los Clientes](images/Distribuci%C3%B3n%20de%20la%20Evasi%C3%B3n%20(Churn)%20de%20los%20Clientes.png))
 
-### Recuento de la evasión por variables categóricas.png
-![Recuento de la evasión por variables categóricas](images/Recuento de la evasión por variables categóricas.png)
+![Recuento de la evasión por variables categóricas](images/Recuento%20de%20la%20evasi%C3%B3n%20por%20variables%20categ%C3%B3ricas.png)
 
-### Tasa de Deserción por Perfil y Género.png
-![Tasa de Deserción por Perfil y Género](images/Tasa de Deserción por Perfil y Género.png)
+![Tasa de Deserción por Perfil y Género](images/Tasa%20de%20Deserci%C3%B3n%20por%20Perfil%20y%20G%C3%A9nero.png)
 
-### Recuento de la evasión por variables numéricas
-![Recuento de la evasión por variables numéricas](images/Recuento de la evasión por variables numéricas.png)
+![Recuento de la evasión por variables numéricas](images/Recuento%20de%20la%20evasi%C3%B3n%20por%20variables%20num%C3%A9ricas.png)
 
-### Gráfico del Análisis Estadístico de las Variables Numéricas.png
-![Gráfico del Análisis Estadístico de las Variables Numéricas.png](images/Gráfico del Análisis Estadístico de las Variables Numéricas.png.png)
+![Comparativa de Deserción: Ciclo de Vida por Contrato](images/Comparativa%20de%20Deserci%C3%B3n%20Ciclo%20de%20Vida%20por%20Contrato.png)
 
-### Comparativa de Deserción: Ciclo de Vida por Contrato
-![Comparativa de Deserción: Ciclo de Vida por Contrato](images/Comparativa de Deserción: Ciclo de Vida por Contrato.png)
-
-### Análisis de correlación entre variables
-![Análisis de correlación entre variables](images/Análisis de correlación entre variables.png)
+![Análisis de correlación entre variables](images/An%C3%A1lisis%20de%20correlaci%C3%B3n%20entre%20variables.png)
 
 - **Versión interactiva (Plotly)**
 
@@ -207,39 +199,13 @@ Fuente:[API de Telecom X](https://raw.githubusercontent.com/alura-cursos/challen
 
 ## Estructura del repositorio
 
-├── TelecomX_Churn.ipynb
+├── Telecom X_Latam.ipynb
 
 ├── README.md
 
 ├── 📂 images/
 
-│   ├── Gráfico del Análisis Estadístico de las Variables Numéricas.png
-
-│   ├── Distribución de la Evasión (Churn) de los Clientes.png
-
-│   ├── Recuento de la evasión por variables categóricas.png
-
-│   ├── Tasa de Deserción por Perfil y Género.png
-
-│   ├── Recuento de la evasión por variables numéricas.png
-
-│   ├── Comparativa de Deserción: Ciclo de Vida por Contrato.png
-
-│   └── Análisis de correlación entre variables.png
-
 ├── 📂 interactive/
-
-│   ├── index.html
-
-│   ├── Recuento de la evasión por variables categóricas.html
-
-│   ├── Tasa de Deserción por Perfil y Género.html
-
-│   ├── Recuento de la evasión por variables numéricas.html
-
-│   ├── Comparativa de Deserción: Ciclo de Vida por Contrato.html
-
-│   └── Análisis de correlación entre variables.html
 
 ---
 
