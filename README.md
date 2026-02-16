@@ -148,8 +148,9 @@ Fuente:[API de Telecom X](https://raw.githubusercontent.com/alura-cursos/challen
 
 ![Análisis de correlación entre variables](images/An%C3%A1lisis%20de%20correlaci%C3%B3n%20entre%20variables.png)
 
-[![Ver visualizaciones interactivas](https://img.shields.io/badge/Ver-Visualizaciones Interactivas-2563eb?style=for-the-badge&logo=netlify&logoColor=white)](https://mellifluous-boba-bed465.netlify.app/)
+[![Explorar Visualizaciones Interactivas](https://img.shields.io/badge/Explorar-Visualizaciones%20Interactivas-2563eb?style=for-the-badge&logo=plotly&logoColor=white)](https://mellifluous-boba-bed465.netlify.app/)
 
+**Vista Previa:**
 ![Captura de visualizaciones interactivas](images/Visualizaciones%20interactivas.png)
 
 ---
