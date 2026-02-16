@@ -232,7 +232,8 @@ Este proyecto evidencia capacidad en:
 ## Autor
 
 **Fátima Soares**  
-Analista de datos, apasionada por la visualización y análisis de métricas, transformando datos en información útil para la toma de decisiones.  
+Data Analyst | Enfoque en análisis estratégico y toma de decisiones basada en datos.
+Especializada en transformar métricas operativas en insights ejecutivos accionables.
 [GitHub](https://github.com/fsoaresg)
 
 ---
