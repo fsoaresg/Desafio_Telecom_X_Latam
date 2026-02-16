@@ -241,3 +241,5 @@ Especializada en transformar métricas operativas en insights ejecutivos acciona
 ## Licencia
 
 Este proyecto es de **uso educativo y demostrativo**, con base en un desafío de Alura Latam.
+
+---
