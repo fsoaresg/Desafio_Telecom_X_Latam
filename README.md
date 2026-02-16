@@ -60,7 +60,7 @@ El proyecto sigue una metodología estructurada:
 
 - Tasa de churn: 26.6%
 - Contrato mensual = mayor concentración de fuga
-- Correlación negativa fuerte entre antigüedad y deserción
+- Correlación negativa fuerte entre antigüedad y deserción (mientras más tiempo permanece el cliente, menor es el riesgo de fuga). 
 - El ingreso acumulado depende de la retención, no del precio
 - Primeros 6 meses = ventana crítica de intervención
 
