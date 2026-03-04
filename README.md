@@ -45,7 +45,7 @@ El proyecto sigue una metodología estructurada:
    Los clientes que pagan más de $70 mensuales presentan mayor tasa de churn.
    El cliente de alto valor es más exigente y menos tolerante a fallos
    
-- **Segmento Senior (+60) es el Más Vulnerable**
+- **Segmento Senior (+60) es el más Vulnerable**
    Presenta la tasa de deserción más alta (>40%).
    
 - **Fricción en el Método de Pago**
