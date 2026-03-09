@@ -190,7 +190,7 @@ Fuente:[API de Telecom X](https://raw.githubusercontent.com/alura-cursos/challen
 
 ## Cómo usar este proyecto
 
-1. Abrir el cuaderno en **[Google Colab](https://colab.research.google.com/drive/1GmVnMzoH1Scf52kqgmN2oSKKraVXPLgX?usp=sharing)**.
+1. Abrir el cuaderno en **[Google Colab](https://colab.research.google.com/github/fsoaresg/Desafio_Telecom_X_Latam/blob/main/Telecom_X_Latam.ipynb)**.
 2. Ejecutar las celdas paso a paso para:
     - Importar los datos desde la API.
     - Realizar limpieza y transformación.
