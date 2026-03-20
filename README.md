@@ -208,8 +208,6 @@ Fuente:[API de Telecom X](https://raw.githubusercontent.com/alura-cursos/challen
 
 ├── 📂 images/
 
-├── 📂 interactive/
-
 ---
 
 ## Competencias Demostradas y Posicionamiento Profesional
